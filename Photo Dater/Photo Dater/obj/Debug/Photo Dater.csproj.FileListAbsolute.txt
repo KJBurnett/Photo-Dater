@@ -1,0 +1,12 @@
+c:\users\kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\bin\Debug\Photo Dater.exe.config
+c:\users\kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\bin\Debug\Photo Dater.exe
+c:\users\kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\bin\Debug\Photo Dater.pdb
+c:\users\kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\obj\Debug\Photo Dater.csprojResolveAssemblyReference.cache
+c:\users\kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\obj\Debug\Photo Dater.exe
+c:\users\kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\obj\Debug\Photo Dater.pdb
+C:\Users\Kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\bin\Debug\taglib-sharp.dll
+C:\Users\Kyler\documents\visual studio 2015\Projects\Photo Dater\Photo Dater\bin\Debug\policy.2.0.taglib-sharp.config
+F:\Google Drive\Documents\CS\Visual Studio Projects\C#\Photo Dater\Photo Dater\bin\Debug\Photo Dater.exe.config
+F:\Google Drive\Documents\CS\Visual Studio Projects\C#\Photo Dater\Photo Dater\obj\Debug\Photo Dater.exe
+F:\Google Drive\Documents\CS\Visual Studio Projects\C#\Photo Dater\Photo Dater\obj\Debug\Photo Dater.pdb
